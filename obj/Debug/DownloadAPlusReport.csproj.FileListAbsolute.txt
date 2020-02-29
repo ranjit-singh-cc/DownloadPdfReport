@@ -1,0 +1,7 @@
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\bin\Debug\DownloadAPlusReport.exe.config
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\bin\Debug\DownloadAPlusReport.exe
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\bin\Debug\DownloadAPlusReport.pdb
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\obj\Debug\DownloadAPlusReport.csprojAssemblyReference.cache
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\obj\Debug\DownloadAPlusReport.csproj.CoreCompileInputs.cache
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\obj\Debug\DownloadAPlusReport.exe
+D:\My Projects\Task - Tool\ImportantProjects\DownloadAPlusReport\DownloadAPlusReport\obj\Debug\DownloadAPlusReport.pdb
